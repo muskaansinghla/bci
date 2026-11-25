@@ -1,0 +1,7 @@
+﻿.venv/
+data/
+*.pt
+*.joblib
+*.npz
+__pycache__/
+.ipynb_checkpoints/
